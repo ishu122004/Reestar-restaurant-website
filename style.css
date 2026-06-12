@@ -1,0 +1,155 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.reshead{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.res__h{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.res__p{
+    color: gray
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+.pizz{
+    width: 196px;
+    height: 270px;
+    display: block;
+    margin-top: 0;
+    padding: 0;
+}
+.con__pizz{
+    
+    display:inline-block;
+    width:200px;
+    padding-top: 10px;
+    border: 2px solid black;
+    margin-left: 270px;
+    
+    margin-top: 10px;
+    padding: 0;
+    margin-bottom: 10px;
+    
+    padding-bottom: 5px;
+}
+.piz__but{
+    margin-left: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: black;
+    color: white;
+}
+.pas{
+    width:196px;
+    height: 270px;
+    display: block;
+}
+.con__pas{
+    display:inline-block;
+    width:200px;
+    padding-top: 10px;
+    border: 2px solid black;
+    margin-left: 1px;
+    margin-top: 10px;
+    padding: 0;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    
+}
+.pas__but{
+    margin-left: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: black;
+    color: white;
+}
+.nood{
+    width:196px;
+    height:270px;
+    display: block;
+}
+.con__nood{
+    display: inline-block;
+    width: 200px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+.nood__but{
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+
+}
+.biry{
+    width:196px;
+    height: 270px;
+    display: block;
+}
+.con__biry{
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+.biry__but{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+.res__cont{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.res__table{
+    display: block;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 0;
+    
+
+}
+.con__na{
+    padding-left: 520px;
+    text-align: center;
+    
+}
+.con__age{
+    padding-left: 520px;
+    text-align: center;
+
+}
+.con__em{
+    padding-left: 520px;
+    text-align: center;
+}
+.con__but{
+    background-color: yellow;
+    color: black;
+    width: 500px;
+    padding-top:6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+}
+.container{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    
+}
